@@ -15,7 +15,7 @@ make install
 
 ### Reset and Init chain
 ```bash
-./unsafe-reset.all.sh
+./unsafe-reset-all.sh
 ```
 
 p.s. Alice and Bob's address has been created for you in `./appcli`.
